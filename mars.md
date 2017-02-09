@@ -1,12 +1,2 @@
-### Big Heading
-## Littler Heading
-# Even Smaller
-
-- apples
--oranges
--peaches
-
-1 R
-2 Python
-
-[Software Carpentry](http://www.software-carpentry.org)
+#This is a big heading
+###This is a markdown file for mars.md
